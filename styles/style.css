@@ -34,7 +34,7 @@ a {
   color: #e5e7eb;
 }
 
-.hero-secondary-text{
+.hero-secondary-text {
   font-size: 18px;
   color: #e5e7eb;
   padding: 10px 0;
@@ -76,10 +76,41 @@ button {
   padding: 4px 20px;
 }
 
+.information {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .information-header {
   font-size: 36px;
   font-weight: bolder;
   color: #1f2937;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+.card-combinations {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: 100px;
+}
+
+.card {
+  width: 96px;
+  height: 96px;
+  border: 2px solid #3882f6;
+  border-radius: 8px;
+}
+
+.card-subtext {
+  text-align: center;
 }
 
 .quote {
