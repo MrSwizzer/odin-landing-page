@@ -45,6 +45,7 @@ a {
   flex-wrap: wrap;
   padding: 80px 0;
   gap: 50px;
+  justify-content: center;
 }
 
 .hero-box-left-side {
@@ -118,6 +119,7 @@ button {
   background-color: #e5e7eb;
   display: flex;
   justify-content: center;
+  padding: 50px 0;
 }
 
 .test {
@@ -135,5 +137,30 @@ button {
 }
 
 .quote-author {
+  font-weight: bold;
   align-self: flex-end;
+}
+
+.action {
+  background-color: #3882f6;
+  display: flex;
+  justify-content: space-between;
+  max-width: 60%;
+  margin: auto;
+  padding: 50px;
+  border-radius: 4px;
+}
+
+.action-left-side {
+  display: flex;
+  flex-direction: column;
+  color: #e5e7eb;
+}
+
+.action-header {
+  font-weight: bold;
+}
+
+.sign-up-button {
+  border: 2px solid #e5e7eb;
 }
