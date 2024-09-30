@@ -17,10 +17,15 @@ This project is part of **The Odin Project's Foundation curriculum**, where I cr
 
 ## 📸 Preview
 
-(https://mrswizzer.github.io/odin-landing-page)
+You can view the live version of the project here: [Live Demo](https://mrswizzer.github.io/odin-landing-page)
 
-./preview-pictures/preview-narrow.png
-./preview-pictures/preview-wide.png
+### Narrow View:
+
+![Narrow Preview](./preview-pictures/preview-narrow.png)
+
+### Wide View:
+
+![Wide Preview](./preview-pictures/preview-wide.png)
 
 ## 💡 Learning Outcomes
 
